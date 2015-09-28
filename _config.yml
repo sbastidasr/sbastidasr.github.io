@@ -1,6 +1,6 @@
 # Site settings
 title: '@sbastidasr'
-header-img: img/NowTheNightHeader5.png
+header-img: "img/home-bg.png"
 email: sbastidasr@gmail.com
 description: "My blog. About development & stuff"
 baseurl: ""

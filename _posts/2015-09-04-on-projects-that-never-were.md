@@ -2,6 +2,9 @@
 layout: post
 title: On projects that never were.
 date: '2015-09-04T09:20:54-05:00'
+subtitle:   "A couple of stopped projects"
+author:     "sbastidasr"
+header-img: "img/home-bg.png"
 tags: []
 tumblr_url: http://sbastidasr.com/post/128330396424/on-projects-that-never-were
 ---
