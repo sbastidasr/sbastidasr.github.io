@@ -4,10 +4,10 @@ header-img: img/home-bg.png
 email: sbastidasr@gmail.com
 description: "My blog. About development & stuff"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://sbastidasr.com"
 twitter_username: sbastidasr
 github_username:  sbastidasr
-facebook_username:  sbastidar
+facebook_username:  sbastidasr
 
 # Build settings
 markdown: kramdown
