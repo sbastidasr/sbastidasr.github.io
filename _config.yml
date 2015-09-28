@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+title: '@sbastidasr'
+header-img: img/NowTheNightHeader5.png
+email: sbastidasr@gmail.com
+description: "My blog. About development & stuff"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: sbastidasr
+github_username:  sbastidasr
+facebook_username:  sbastidar
 
 # Build settings
 markdown: kramdown
