@@ -2,6 +2,8 @@
 layout: post
 title: Run away from people that think you will steal their idea.
 date: '2015-09-04T09:20:09-05:00'
+subtitle:   "Run. Away."
+author:     "sbastidasr"
 tags: []
 tumblr_url: http://sbastidasr.com/post/128331251439/run-away-from-people-that-think-you-will-steal
 ---

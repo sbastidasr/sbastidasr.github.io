@@ -1,7 +1,9 @@
 ---
 layout: post
-title: What are CocoaPods? And why use them
+title: What are CocoaPods? 
 date: '2015-07-09T14:32:54-05:00'
+subtitle:   "And why use them."
+author:     "sbastidasr"
 tags:
 - cocoapods
 - ios

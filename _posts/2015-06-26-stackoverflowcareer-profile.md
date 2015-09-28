@@ -2,6 +2,7 @@
 layout: post
 title: StackOverflowCareer Profile!
 date: '2015-06-26T14:22:24-05:00'
+author:     "sbastidasr"
 tags: []
 tumblr_url: http://sbastidasr.com/post/122521013984/stackoverflowcareer-profile
 ---

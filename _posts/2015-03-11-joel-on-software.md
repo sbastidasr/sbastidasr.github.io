@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Joel on Software
+subtitle:   "A quick overview"
+author:     "sbastidasr"
 date: '2015-03-11T08:15:38-05:00'
 tags: []
 tumblr_url: http://sbastidasr.com/post/113336162519/joel-on-software

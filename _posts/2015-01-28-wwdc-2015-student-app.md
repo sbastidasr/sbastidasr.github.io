@@ -6,7 +6,7 @@ tags:
 - ios wwdc ObjectiveC swift
 tumblr_url: http://sbastidasr.com/post/117607948834/wwdc-2015-student-app
 
-subtitle:   "asdasd"
+subtitle:   "My submission"
 author:     "sbastidasr"
 header-img: "img/wwdc/wwdcApp1.jpg"
 ---

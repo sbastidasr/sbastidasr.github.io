@@ -2,6 +2,8 @@
 layout: post
 title: Top languages for Data Science  in 2015 (so far)
 date: '2015-03-17T18:05:31-05:00'
+subtitle:   "With market share for each one"
+author:     "sbastidasr"
 tags:
 - data science
 - data

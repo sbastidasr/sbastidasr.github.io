@@ -1,7 +1,9 @@
 ---
 layout: post
-title: My take on the State of Crypto Wars.
+title: The State of Crypto Wars.
 date: '2015-07-16T12:53:42-05:00'
+subtitle:   "My take on them."
+author:     "sbastidasr"
 tags:
 - cryptography
 - nsa

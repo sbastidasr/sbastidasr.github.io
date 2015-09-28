@@ -2,6 +2,8 @@
 layout: post
 title: The software revolution
 date: '2015-08-03T09:28:19-05:00'
+subtitle:   "We are living it."
+author:     "sbastidasr"
 tags: []
 tumblr_url: http://sbastidasr.com/post/128331609754/the-software-revolution
 ---

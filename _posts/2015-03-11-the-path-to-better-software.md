@@ -2,6 +2,8 @@
 layout: post
 title: The Path to Better Software
 date: '2015-03-11T08:15:07-05:00'
+subtitle:   "And how to get to it."
+author:     "sbastidasr"
 tags: []
 tumblr_url: http://sbastidasr.com/post/113336143164/the-path-to-better-software
 ---

@@ -2,10 +2,12 @@
 layout: post
 title: Who Designs Software?
 date: '2015-03-11T08:14:18-05:00'
+subtitle:   "We are all designers."
+author:     "sbastidasr"
 tags: []
 tumblr_url: http://sbastidasr.com/post/113336111564/who-designs-software
 ---
-We are all designers.
+
 
 Let’s start by defining the design parts that make up an app.
 
