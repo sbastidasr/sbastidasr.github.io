@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JS Love and Growth
-date: "2017-03-03T09:20:09-05:00"
+date: "2016-03-03T09:20:09-05:00"
 subtitle: ""
 author: sbastidasr
 tags: []
