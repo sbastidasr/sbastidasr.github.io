@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## JS Love and Growth
 
@@ -14,4 +15,4 @@ Its core is so basic, that almost everything can compile to it. There are supers
 
 And as it became so good with graphics handling(and by good, I mean supported by everyone). It has now ported to other environments. Semi-native apps on mobile devices. It ported to computers with electron and we all listen through everything on spotify. It looks good, it works good. It receives the data flow. It takes it somewhere else. 
 
-And finally, it is so open. You can do functional programming, you can do structured programming, you can even eval() stuff(although you really shouldn't). But it allows you to do almost anything you want. And it is why it is so big. because it is impossible to know everything js, because it is so big. And not even libraries that do the same have the same architecture. Want d3? totally different style of stuff  handling than node. Not even close. Angular? React? everything works so differently, because JavaScript allows it. So what it has is flexibility. Stop hating javascript. It's good, it allows you to do good stuff, and everyone hopes you do good stuff. Not box yourself. 
+And finally, it is so open. You can do functional programming, you can do structured programming, you can even eval() stuff(although you really shouldn't). But it allows you to do almost anything you want. And it is why it is so big. because it is impossible to know everything js, because it is so big. And not even libraries that do the same have the same architecture. Want d3? totally different style of stuff  handling than node. Not even close. Angular? React? everything works so differently, because JavaScript allows it. So what it has is flexibility. Stop hating javascript. It's good, it allows you to do good stuff, and everyone hopes you do good stuff. Not box yourself.
