@@ -1,16 +1,16 @@
 ---
 layout: post
-title: WWDC 2015 Student App
-date: '2015-01-28T11:24:56-05:00'
+title: WWDC 2014 Student App
+date: '2014-01-28T11:24:56-05:00'
 tags:
 - ios wwdc ObjectiveC swift
-tumblr_url: http://sbastidasr.com/post/117607948834/wwdc-2015-student-app
+tumblr_url: http://sbastidasr.com/post/117607948834/wwdc-2014-student-app
 
 subtitle:   "My submission"
 author:     "sbastidasr"
 header-img: "img/wwdc/wwdcApp1.jpg"
 ---
-**My WWDC 2015 Student App**
+**My WWDC 2014 Student App**
 
 It’s that time of the year again! Excitement about new devices, leaks and thousands and thousands of new blog posts reviewing the releases. This year it is going to be all about the new MacBooks and how swift is catching up!
 
