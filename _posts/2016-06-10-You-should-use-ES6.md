@@ -85,7 +85,7 @@ function(x, y){
 }
 ```
 
-Using map and reduce:
+Using map and reduce::
 
 ```
 var ages = [{name:"Travis", age:22}, {name:"Mark", age:23}];
