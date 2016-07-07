@@ -86,6 +86,7 @@ function(x, y){
 ```
 
 Using map and reduce:
+
 ```
 var ages = [{name:"Travis", age:22}, {name:"Mark", age:23}];
 
@@ -109,6 +110,7 @@ let sumOfAges = ages.map(x => x.age).reduce((a, b) => a + b);
 # 3. Strings
 
 ## Template strings
+
 This isn't as much as an innovation as it is something that should have been there a long time ago. Instead of concatenating strings, we now use template strings that insert values dynamically.
 
 ```
@@ -118,7 +120,9 @@ console.log("Hello " + name + " you are user #: " + userNumber);
 // ES6 way
 console.log(`Hello ${name} you are user #: ${userNumber}`);
 ```
+
 ## Multiline Strings!
+
 ```
 var roadPoem = `This is the first line,
                 this one is second,
@@ -148,7 +152,6 @@ class Cat{
 }
 ```
 
-
 # 5. Default Parameters
 
 To get default parameters on previous versions we had to assign them manually at the beginning of the function.
@@ -164,6 +167,7 @@ var catTalk = function (name, phrase) {
 ```
 
 Now, in ES6 we can do:
+
 ```
 var link = function(name = 'No One', phrase = 'Hi') { }
 ```
@@ -231,6 +235,7 @@ var tmp = cat1;
 cat1 = cat2;
 cat2 = tmp;
 ```
+
 It works for objects too!
 
 ```
@@ -248,6 +253,7 @@ var radioactive: catInfo.radioactive;
 ```
 
 This is amazing because you can do this:
+
 ```
 var {username, password} = req.body
 ```
